@@ -102,4 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/mlosun/gift-for-jason.com.git # 例如https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: main
