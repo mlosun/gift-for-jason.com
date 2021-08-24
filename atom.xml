@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>鸡娃日记</title>
+  
+  
+  <link href="https://gift-for-jason.com/atom.xml" rel="self"/>
+  
+  <link href="https://gift-for-jason.com/"/>
+  <updated>2021-08-24T19:00:40.468Z</updated>
+  <id>https://gift-for-jason.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://gift-for-jason.com/2021/08/25/test/"/>
+    <id>https://gift-for-jason.com/2021/08/25/test/</id>
+    <published>2021-08-25T01:59:32.000Z</published>
+    <updated>2021-08-24T19:00:40.468Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gift-for-jason.com/2021/08/24/hello-world/"/>
+    <id>https://gift-for-jason.com/2021/08/24/hello-world/</id>
+    <published>2021-08-24T19:00:40.468Z</published>
+    <updated>2021-08-24T19:00:40.468Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
