@@ -2,25 +2,25 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
-title: 鸡娃日记
+# 网站
+title: Jason的礼物
 subtitle: ''
 description: ''
-keywords:
-author: John Doe
+keywords: Jason,杰森,成长日记,鸡娃日记
+author: mlosun
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 
-# URL
+# 网址
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://gift-for-jason.com
-permalink: :year/:month/:day/:title/
+permalink: archives/:post_title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
-# Directory
+# 目录
 source_dir: source
 public_dir: public
 tag_dir: tags
@@ -30,7 +30,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
-# Writing
+# 文章
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
@@ -56,7 +56,7 @@ prismjs:
   line_number: true
   tab_replace: ''
 
-# Home page setting
+# 首页
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
@@ -65,7 +65,7 @@ index_generator:
   per_page: 12
   order_by: -date
 
-# Category & Tag
+# 分类 & 标签
 default_category: uncategorized
 category_map:
 tag_map:
@@ -74,7 +74,7 @@ tag_map:
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
 
-# Date / Time format
+# 日期 / 时间格式
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
@@ -83,7 +83,7 @@ time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
-# Pagination
+# 分页
 ## Set per_page to 0 to disable pagination
 per_page: 12
 pagination_dir: page
@@ -94,7 +94,7 @@ include:
 exclude:
 ignore:
 
-# Extensions
+# 扩展
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: matery
