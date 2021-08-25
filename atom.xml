@@ -6,7 +6,7 @@
   <link href="https://gift-for-jason.com/atom.xml" rel="self"/>
   
   <link href="https://gift-for-jason.com/"/>
-  <updated>2021-08-25T06:06:53.411Z</updated>
+  <updated>2021-08-25T11:51:14.115Z</updated>
   <id>https://gift-for-jason.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://gift-for-jason.com/archives/hello-world.html"/>
     <id>https://gift-for-jason.com/archives/hello-world.html</id>
-    <published>2021-08-25T06:06:53.411Z</published>
-    <updated>2021-08-25T06:06:53.411Z</updated>
+    <published>2021-08-25T11:51:14.115Z</published>
+    <updated>2021-08-25T11:51:14.115Z</updated>
     
     
       
@@ -38,11 +38,40 @@
   </entry>
   
   <entry>
+    <title>使用 Hexo &amp; Github Actions 搭建博客</title>
+    <link href="https://gift-for-jason.com/archives/shi-yong-hexo-github-actions-da-jian-bo-ke.html"/>
+    <id>https://gift-for-jason.com/archives/shi-yong-hexo-github-actions-da-jian-bo-ke.html</id>
+    <published>2021-08-25T11:37:00.000Z</published>
+    <updated>2021-08-25T11:51:14.115Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用-Hexo-amp-Github-Actions-搭建博客&quot;&gt;&lt;a href=&quot;#使用-Hexo-amp-Github-Actions-搭建博客&quot; class=&quot;headerlink&quot; title=&quot;使用 Hexo &amp;amp; Github Actions</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://gift-for-jason.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://gift-for-jason.com/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://gift-for-jason.com/tags/Github/"/>
+    
+    <category term="Github Actions" scheme="https://gift-for-jason.com/tags/Github-Actions/"/>
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="https://gift-for-jason.com/archives/test.html"/>
     <id>https://gift-for-jason.com/archives/test.html</id>
     <published>2021-08-24T17:59:32.000Z</published>
-    <updated>2021-08-25T06:06:53.411Z</updated>
+    <updated>2021-08-25T11:51:14.115Z</updated>
     
     
     
