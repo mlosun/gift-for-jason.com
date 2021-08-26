@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jason的礼物</title>
   
-  
+  <subtitle>一个记录怎么鸡娃的成长日记</subtitle>
   <link href="https://gift-for-jason.com/atom.xml" rel="self"/>
   
   <link href="https://gift-for-jason.com/"/>
-  <updated>2021-08-25T11:51:14.115Z</updated>
+  <updated>2021-08-26T01:20:21.396Z</updated>
   <id>https://gift-for-jason.com/</id>
   
   <author>
@@ -17,32 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://gift-for-jason.com/archives/hello-world.html"/>
-    <id>https://gift-for-jason.com/archives/hello-world.html</id>
-    <published>2021-08-25T11:51:14.115Z</published>
-    <updated>2021-08-25T11:51:14.115Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>使用 Hexo &amp; Github Actions 搭建博客</title>
     <link href="https://gift-for-jason.com/archives/shi-yong-hexo-github-actions-da-jian-bo-ke.html"/>
     <id>https://gift-for-jason.com/archives/shi-yong-hexo-github-actions-da-jian-bo-ke.html</id>
     <published>2021-08-25T11:37:00.000Z</published>
-    <updated>2021-08-25T11:51:14.115Z</updated>
+    <updated>2021-08-26T01:20:21.396Z</updated>
     
     
       
@@ -63,19 +42,6 @@
     <category term="Github" scheme="https://gift-for-jason.com/tags/Github/"/>
     
     <category term="Github Actions" scheme="https://gift-for-jason.com/tags/Github-Actions/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://gift-for-jason.com/archives/test.html"/>
-    <id>https://gift-for-jason.com/archives/test.html</id>
-    <published>2021-08-24T17:59:32.000Z</published>
-    <updated>2021-08-25T11:51:14.115Z</updated>
-    
-    
-    
-    
     
   </entry>
   
