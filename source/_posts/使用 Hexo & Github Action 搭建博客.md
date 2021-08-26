@@ -11,11 +11,14 @@ cover: true
 ---
 
 # 使用 Hexo & Github Actions 搭建博客
+
 >案例博客：[Jason的礼物](https://gift-for-jason.com)，一个记录怎么鸡娃的成长日记。[Github](https://github.com/mlosun/gift-for-jason.com)
+
 ## 方案概述
 一直认为在 Github 上搭建静态博客是一件很省~~钱~~心的事情，不需要去操心服务器到期、各种配置，并且 Github 也已经到了大而不倒（至少很难）的地步了吧。试过不少静态博客方案，也看过不少 Github Actions 的教程，最终结合自己的思路整理出来一套超简单的 Hexo & Github Actions 搭建博客方案。
 - 710搭建：只需要简单7个步骤，10min即可搭建自动化部署的 Hexo 博客
 - 单库管理：Hexo源文件和静态文件在同一个 Github 仓库中管理，便于备份
+
 ## 搭建博客
 
 >下文中请自行将`mlosun`、`HexoBlog`修改为你的用户名及项目名称。
