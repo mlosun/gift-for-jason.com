@@ -46,11 +46,11 @@ menu:
 # 站点运行开始时间.
 time:
   enable: true
-  year: 2019 # 年份
-  month: 06 # 月份
-  date: 20 # 日期
-  hour: 08 # 小时
-  minute: 16 # 分钟
+  year: 2021 # 年份
+  month: 08 # 月份
+  date: 24 # 日期
+  hour: 20 # 小时
+  minute: 00 # 分钟
   second: 00 # 秒
 
 # Index cover carousel configuration.
@@ -320,9 +320,9 @@ livere:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: false
-  appId:
-  appKey:
+  enable: true
+  appId: FOHMp2GIq3rjYQPQRFclNAHp-MdYXbMMI
+  appKey: jfpOhxuRLNgI2rUUln8727Js
   notify: false
   verify: false
   visitor: true
@@ -539,11 +539,11 @@ canvas_nest:
 
 # 背景静止彩带.
 ribbon:
-  enable: false
+  enable: true
   size: 150 # 彩带大小, 默认: 90.
   alpha: 0.6 # 彩带透明度 (0 ~ 1), 默认: 0.6.
   zIndex: -1 # 背景的z-index属性，css属性用于控制所在层的位置, 默认: -1.
-  clickChange: false  # 设置是否每次点击都更换彩带.
+  clickChange: true  # 设置是否每次点击都更换彩带.
 
 # 背景动态彩带.
 ribbon_dynamic:
